@@ -24,7 +24,7 @@ public class FizzBuzz{
 			else arr[i] = i+"";
 		}
 		
-		//printing the one dimension array
+		//printing the array
 		for(int i=0 ; i<=n ; i++){
 			System.out.println("Position " + i + " = " +arr[i]);
 		}
