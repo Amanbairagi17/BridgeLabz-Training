@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TrignometricFuncions{
-	//method for finding smallest and largest number
+	//method for findig agnles 
 	private static double[] calculateTrigonometricFunctions(double angle){
 		double[] arr = new double[3];
 		double radian = Math.toRadians(angle);
