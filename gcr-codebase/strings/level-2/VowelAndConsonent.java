@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelAndConsonent{
+public class DisplayVowelAndConsonent{
 	// method to check vowel and consonent 
 	private static String checkLetter(char ch){
 		int ascii = ch;
@@ -14,16 +14,25 @@ public class VowelAndConsonent{
 		return "Not a letter";
 	}
 	
-	// return the count of vowel and consonet in an array
-	private static int[] getCount(String s){
-		int vowel = 0;
-		int consonent = 0;
-		for(int i = 0; i < s.length(); i++){
+	// return the 2d array of letter
+	private static String[][] getGrid(String s){
+		int n = s.length();
+		String[][] result = new String[n][2];
+		for(int i = 0; i < n; i++){
+			result[i][0] = "" + s.charAt(i);
 			String curr = checkLetter(s.charAt(i));
-			if(curr.equals("Vowel")) vowel++;
-			else if(curr.equals("Consonent")) consonent++;
+			if(curr.equals("Vowel")) result[i][1] = "Vowel";
+			else if(curr.equals("Consonent")) result[i][1] = "Consonent";
+			else result[i][1] = "Not a letter";
 		}
-		return new int[]{vowel, consonent};
+		return result;
+	}
+	
+	// print the character and weather it is a vowel or character
+	private static void display(String[][] grid){
+		for(String[] s : grid){
+			System.out.println(s[0] + " : " + s[1]);
+		}
 	}
 	
 	public static void main(String[] args){
@@ -33,8 +42,8 @@ public class VowelAndConsonent{
 		String s = sc.nextLine().trim();
 		
 		// calling method and printing result
-		int[] result = getCount(s);
-		System.out.println("Vowel : " + result[0] + " Consonent : " + result[1]);
+		String[][] grid = getGrid(s);
+		display(grid);
 		
 		sc.close();
 	}
