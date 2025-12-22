@@ -1,46 +1,44 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class TabularDisplay{
-	//method for finding length using charAt method
-	private static int getLength(String str){
+	// method to find length of string
+	private static int getLength(String s){
 		int idx = 0;
 		try{
 			while(true){
-				str.charAt(idx);
+				char ch = s.charAt(idx);
 				idx++;
 			}
-		}catch(Exception E){
+		}
+		catch(Exception e){
 			return idx;
 		}
 	}
 	
-	private static String[] spiltString(String str){
-		int wordCount = 1;
-		int n = getLength(str);
+	// split the string and return an array
+	private static String[] split(String s){
+		int count = 1;
 		
-		for(int i=0 ; i<n ; i++){ 
-			if(str.charAt(i) == ' ') wordCount++;
+		for(int i = 0; i < s.length(); i++){
+			if(s.charAt(i) == ' ') count++; 
 		}
-		
-		String[] word = new String[wordCount];
-		
-		int idx = 0 ;
+		String[] result = new String[count];
+		int idx = 0;
 		int prev = 0;
 		
-		for(int i=0 ; i<n ; i++){
-			if(str.charAt(i) == ' '){
-				word[idx++] = str.substring(prev,i);
+		for(int i = 0; i < s.length(); i++){
+			if(s.charAt(i) == ' '){
+				result[idx++] = s.substring(prev, i);
 				prev = i+1;
 			}
-			
 		}
-		word[idx] = str.substring(prev);
-		return word;
+		result[idx] = s.substring(prev);
+		return result;
 	}
 	
 	// return a 2d array of strings 
 	private static String[][] getGrid(String s){
-		String[] arr = spiltString(s);
+		String[] arr = split(s);
 		int n = arr.length;
 		
 		String[][] result = new String[n][2];
@@ -59,16 +57,15 @@ public class TabularDisplay{
 	}
 	
 	public static void main(String[] args){
-		//creating object and taking input
+		// creating scanner object and taking input
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter string  : " );
-		String str = sc.nextLine().trim();
+		System.out.print("Enter string : ");
+		String s = sc.nextLine().trim();
 		
-		String[][] grid = getGrid(str);
-		
-
-		//calling method and printing result
+		// calling method and printing result
+		String[][] grid = getGrid(s);
 		display(grid);
-
+		
+		sc.close();
 	}
 }
