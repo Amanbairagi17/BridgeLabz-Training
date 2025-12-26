@@ -34,7 +34,7 @@ public class Restaurant {
     }
     
     public static void main(String[] args) {
-    	Restaurant r = new Restaurant("One Bite","Indrpuri" ,new String[]{"Piza","Milk"});
+    	Restaurant r = new Restaurant("One Bite","Indrpuri" ,new String[]{"Piza","Cold Coffe","Tea","Pizza"});
     	r.displayDetails();
     	System.out.print("Pav is available : " +r.isFoodAvailable("Pav"));
     }
