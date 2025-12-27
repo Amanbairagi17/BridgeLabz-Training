@@ -16,6 +16,6 @@ public class CarRental {
 	}
 	public static void main(String[] args) {
 		CarRental car = new CarRental("Customer1", "Model1", 10);
-		System.out.println("Total cost is : " +car.getTotalPrice());
+		System.out.println("Total cost is : "+car.getTotalPrice());
 	}
 }

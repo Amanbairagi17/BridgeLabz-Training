@@ -17,6 +17,6 @@ public class Student {
 	}
 	
 	void display() {
-		System.out.print(this.rollNumber + " : " + this.name + " : " + this.cgpa);
+		System.out.println(this.rollNumber + " : " + this.name + " : " + this.cgpa);
 	}
 }
