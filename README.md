@@ -158,3 +158,30 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 10 – Constructors](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+---
+
+### 🗓 Day 11 – Scenario based questions & Leetcode questions
+**(Date: 29-Dec-2025)**
+
+- Practiced real world problems.
+- Implemented programs such as:
+  - Parking Lot Gate System 
+  - The Number Guessing Game
+  - Shopkeeper’s Discount Dashboard
+  - School Bus Attendance System
+  -Phone Recharge Simulator
+- Leetcode Questions
+ - (3788). Maximum Score of a Split
+ - (3789). Minimum Cost to Acquire Required Items
+ - (3790). Smallest All-Ones Multiple
+ - (1351). Count Negative Numbers in a Sorted Matrix
+ - (35). Search Insert Position  
+- Improved understanding of Input handling and Real world problems
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+- Practiced program by creating static keywords and use of this keyword.
+- Studied keywords in Java and their accessibility.
+
+🔗 **Code Link:**  
+👉 [Day 11 – Scenario based questions & Leetcode](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) & (https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) & (https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1)
