@@ -23,3 +23,17 @@
 
 🔗 **Code Link:**  
 👉 [Day 10 – Constructors](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+---
+
+### 🗓 Day 11 – Keywords(final, static and this)  
+**(Date: 29-Dec-2025)**
+
+- Studied keywords in Java and their accessibility.
+- Practiced program by creating static keywords and use of this keyword.
+- Learned about java keywords : this, static and final.
+- Implemented programs demonstrating access control in classes.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Keywords](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1)
