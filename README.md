@@ -144,11 +144,11 @@ BridgeLabz-Training/
   - School Bus Attendance System
   -Phone Recharge Simulator
 - Leetcode Questions
- - 3788. Maximum Score of a Split
- - 3789. Minimum Cost to Acquire Required Items
- - 3790. Smallest All-Ones Multiple
- - 1351. Count Negative Numbers in a Sorted Matrix
- - 35. Search Insert Position  
+ - (3788). Maximum Score of a Split
+ - (3789). Minimum Cost to Acquire Required Items
+ - (3790). Smallest All-Ones Multiple
+ - (1351). Count Negative Numbers in a Sorted Matrix
+ - (35). Search Insert Position  
 - Improved understanding of Input handling and Real world problems
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
