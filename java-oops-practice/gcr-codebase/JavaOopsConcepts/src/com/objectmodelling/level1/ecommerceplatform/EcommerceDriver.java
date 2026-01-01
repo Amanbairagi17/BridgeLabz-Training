@@ -11,5 +11,14 @@ public class EcommerceDriver {
 
         customer.placeOrder(order1);
         p1.showProduct();
+        
+        Product p2 = new Product("P01", "PC", 10000.00);
+
+        Order order2 = new Order("O9801");
+        order1.addProduct(p2);
+
+        customer.placeOrder(order1);
+        p2.showProduct();
+        
 	}
 }
