@@ -36,4 +36,55 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 11 – Keywords](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1)
+👉 [Day 11 – Keywords](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1) 
+
+---
+
+### 🗓 Day 12 – Object Modeling & UML Basics  
+**(Date: 30-Dec-2025)**
+
+- Studied the difference between **Classes and Objects** in Java.
+- Learned fundamentals of **Class Diagrams**.
+- Understood **Object Diagrams** and their real-world representation.
+- Explored **Sequence Diagrams** for object interaction flow.
+- Practiced **object modeling problems**.
+- Learned and implemented concepts of **Association, Aggregation, and Composition**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 12 - Object Modelling & UML Basics](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/level1).
+
+---
+
+### 🗓 Day 13 – Inheritance & Polymorphism  
+**(Date: 31-Dec-2025)**
+
+- Studied **Inheritance** in Java.
+- Learned **Single Level, Multilevel, and Hierarchical Inheritance**.
+- Understood **Key Features of Inheritance**.
+- Implemented **Method Overriding**.
+- Learned **Constructor Inheritance**.
+- Studied **Polymorphism with Inheritance**.
+- Understood **Access Modifiers in Inheritance**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 13 - Inheritance](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance).
+
+---
+
+### 🗓 Day 14 – Encapsulation, Polymorphism & Abstraction  
+**(Date: 01-Jan-2026)**
+
+- Studied **Encapsulation** in Java.
+- Practiced **Polymorphism** concepts.
+- Learned **Interfaces** and their usage.
+- Understood **Abstract Classes**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 14 - Polymorphism, Ecapsulation and Abstraction](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism).
+
+---
+
+
