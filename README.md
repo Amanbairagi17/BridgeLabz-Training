@@ -154,4 +154,81 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 11 – Scenario based questions & Leetcode](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase & https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 11 – Scenario based questions](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) & [Leetcode](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
+
+### 🗓 Day 12 – LeetCode & Scenario-Based Problems  
+**(Date: 30-Dec-2025)**
+
+- Solved LeetCode problems:
+  - Climbing Stairs
+  - Unique Paths
+  - Fibonacci
+  - Magic Squares in Grid
+
+- Practiced scenario-based problems:
+  - **Temperature Logger**: Recorded temperatures for 7 days using arrays and loops; calculated average and maximum.
+  - **Train Reservation Queue**: Simulated ticket booking using switch-case, while-loop, and seat availability check.
+  - **Fitness Challenge Tracker**: Tracked daily push-ups using for-each loop; calculated total and average; skipped rest days.
+  - **Movie Ticket Booking App**: Implemented booking logic using switch and if conditions with multiple customers.
+  - **Library Reminder App**: Calculated late return fines (₹5/day) using date input and for-loop for multiple books.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 12 – Scenario based questions](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) & [Leetcode](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
+
+### 🗓 Day 13 – Core Java Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+- Practiced scenario-based problems:
+  - **Currency Exchange Kiosk**: Currency conversion using switch and do-while loop.
+  - **Bus Route Distance Tracker**: Distance tracking with while-loop and exit control.
+  - **Festival Lucky Draw**: Gift eligibility using if, modulus, and loops.
+  - **Digital Watch Simulation**: 24-hour watch simulation using nested loops.
+  - **Online Quiz Application**: MCQ-based quiz with scoring and switch-case logic.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 13 – Scenario based questions](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 15 – LeetCode Practice  
+**(Date: 02-Jan-2026)**
+
+- Solved LeetCode problems:
+  - N-Repeated Element in 2N Array
+  - Reverse Linked List
+  - Palindrome Linked List
+  - Plus One
+  - Sort Colors
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 15 - Leetcode](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
+
+### 🗓 Day 16 – LeetCode Practice  
+**(Date: 03-Jan-2026)**
+
+- Solved LeetCode problems:
+  - Find Words That Can Be Formed by Characters
+  - Merge Two Sorted Lists
+  - Remove Duplicates from Sorted List
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉  [Day 16 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
+
+
+
