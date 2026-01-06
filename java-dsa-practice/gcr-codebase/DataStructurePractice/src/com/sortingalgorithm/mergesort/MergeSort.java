@@ -4,16 +4,20 @@ import java.util.Arrays;
 
 public class MergeSort {
 	public static void merge(int[] arr, int low, int mid, int high) {
+		//finding the size of both array left and right both are sorted array 
 		int n1 = mid - low + 1;
 		int n2 = high - mid ;
 		
+		//declaring temporary array
 		int[] left = new int[n1];
 		int[] right = new int[n2];
 		
+		//copy all element into left array for left part into unsorted order
 		for(int i=0 ; i<n1 ; i++) {
 			left[i] = arr[low+i];
 		}
 		
+		//copy all element into right array for right part into unsorted order
 		for(int i=0 ; i<n2 ; i++) {
 			right[i] = arr[mid+1+i];
 		}
@@ -22,21 +26,25 @@ public class MergeSort {
 		int j=0;
 		int k=low;
 		
+		//merge both array
 		while(i<n1 && j<n2) {
+			// left array value less then insert into correct position
 			if(left[i] < right[j]) {
 				arr[k] = left[i++];
-			}else {
+			}else {//insert right value to its correct position
 				arr[k] = right[j++];
 			}
 			k++;
 		}
 		
+		//add remaining array values
 		while(i < n1) {
 			arr[k] = left[i];
 			k++;
 			i++;
 		}
 		
+		//add remaining array values for right 
 		while(j < n2) {
 			arr[k] = right[j];
 			k++;
