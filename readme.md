@@ -51,3 +51,13 @@
 👉 [Day 18 – StringBuilder, StringBuffer, FileReader and searching](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/searchingalgorithm)
 
 ---
+
+### 🗓 Day 19 – String & StringBuffer Practice  
+**(Date: 07-Jan-2026)**
+
+- Practiced problems on **String** and **StringBuffer**.
+- Strengthened understanding of mutable vs immutable strings.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
