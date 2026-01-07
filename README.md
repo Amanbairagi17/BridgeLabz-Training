@@ -123,7 +123,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Scenarion Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
 
@@ -140,7 +140,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Scenarion Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
 
@@ -159,6 +159,24 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Scenarion Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
+
+### 🗓 Day 19 – OOPS Scenario-Based Practice  
+**(Date: 07-Jan-2026)**
+
+- Implemented real-world OOPS systems.
+- Applied **inheritance, encapsulation, polymorphism, and interfaces**.
+
+- Scenario-based problems:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
