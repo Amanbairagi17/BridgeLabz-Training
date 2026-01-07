@@ -230,5 +230,33 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 18 – LeetCode Practice  
+**(Date: 06-Jan-2026)**
+
+- Solved LeetCode problems:
+  - 162. Find Peak Element
+  - 1975. Maximum Matrix Sum
+  - 1161. Maximum level sum of Binary Tree
+  - 1390. Four Divisors
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉  [Day 18 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
 
 
+---
+
+### 🗓 Day 19 – LeetCode Practice  
+**(Date: 07-Jan-2026)**
+
+- Solved LeetCode problems:
+  - 268. Missing Number
+  - 1339. Maximum Product of Splitted Binary Tree
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉  [Day 19 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
