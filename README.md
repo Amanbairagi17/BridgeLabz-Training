@@ -264,3 +264,23 @@ BridgeLabz-Training/
 👉 [Searching & File Handling](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/searchingalgorithm)
 
 ---
+
+### 🗓 Day 19 – LeetCode Practice & Scenario Based 
+**(Date: 07-Jan-2026)**
+
+- Solved LeetCode problems:
+  -  Missing Number
+  -  Maximum Product of Splitted Binary Tree
+    
+ Applied **inheritance, encapsulation, polymorphism, and interfaces**.
+- Scenario-based problems:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+- Committed and pushed all changes successfully.
+
+👉 [Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
