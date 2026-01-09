@@ -180,3 +180,21 @@
 👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 20 – OOPS Scenario-Based Practice  
+**(Date: 08-Jan-2026)**
+
+- Practiced real-world OOPS scenario-based problems.
+- Applied **inheritance, encapsulation, polymorphism, and interfaces**.
+
+- Scenario-based problems:
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Planner
+  - ParkEase – Smart Parking Management System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
