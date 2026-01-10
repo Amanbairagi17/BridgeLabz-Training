@@ -234,10 +234,10 @@ BridgeLabz-Training/
 **(Date: 06-Jan-2026)**
 
 - Solved LeetCode problems:
-  - 162. Find Peak Element
-  - 1975. Maximum Matrix Sum
-  - 1161. Maximum level sum of Binary Tree
-  - 1390. Four Divisors
+  -  Find Peak Element
+  -  Maximum Matrix Sum
+  -  Maximum level sum of Binary Tree
+  -  Four Divisors
 
 - Committed and pushed all changes successfully.
 
@@ -251,8 +251,8 @@ BridgeLabz-Training/
 **(Date: 07-Jan-2026)**
 
 - Solved LeetCode problems:
-  - 268. Missing Number
-  - 1339. Maximum Product of Splitted Binary Tree
+  -  Missing Number
+  -  Maximum Product of Splitted Binary Tree
 
 - Committed and pushed all changes successfully.
 
