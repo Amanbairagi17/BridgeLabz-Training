@@ -198,3 +198,21 @@
 👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 21 – OOPS Scenario-Based Practice  
+**(Date: 09-Jan-2026)**
+
+- Practiced OOPS-based scenario problems.
+- Applied **inheritance, encapsulation, abstraction, and polymorphism**.
+
+- Scenario-based problems:
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - Skill Forge – Online Learning Portal
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
