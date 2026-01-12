@@ -341,3 +341,25 @@ BridgeLabz-Training/
 
 
 ---
+
+### 🗓 Day 23 – Input Handling & DSA Scenario-Based Practice  
+**(Date: 12-Jan-2026)**
+
+- Revised and completed pending work related to **InputReader** and **BufferedReader**.
+- Strengthened understanding of efficient input handling in Java.
+
+- Practiced DSA scenario-based problems:
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly Linked List)
+  - TextEditor – Undo/Redo Functionality (Stack)
+
+- Solved LeetCode problem:
+  - Minimum Time Visiting All Points
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉[Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com)
+👉[Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
