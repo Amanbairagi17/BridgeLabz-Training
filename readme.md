@@ -79,3 +79,24 @@
 
 🔗 **Code Links:**  
 [Day 22 - Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com)
+
+---
+
+### 🗓 Day 23 – Input Handling & DSA Scenario-Based Practice  
+**(Date: 12-Jan-2026)**
+
+- Revised and completed pending work related to **InputReader** and **BufferedReader**.
+- Strengthened understanding of efficient input handling in Java.
+
+- Practiced DSA scenario-based problems:
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly Linked List)
+  - TextEditor – Undo/Redo Functionality (Stack)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 23 - InputReader, StreamReader and BufferReader](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/searchingalgorithm).
+[Day 23 - Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com)
+
+---
