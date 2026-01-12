@@ -320,3 +320,24 @@ BridgeLabz-Training/
 👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 22 – LeetCode & Scenario-Based Practice  
+**(Date: 10-Jan-2026)**
+
+- Solved LeetCode problem:
+  - Majority Element
+
+- Practiced scenario-based problems using data structures:
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+- Applied OOPS concepts with real-world data structure usage.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Links:**  
+👉[Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com)
+👉 [Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+
+---
