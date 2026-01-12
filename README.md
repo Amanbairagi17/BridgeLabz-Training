@@ -271,3 +271,16 @@ BridgeLabz-Training/
 👉  [Day 22 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
 
 ---
+
+### 🗓 Day 23 – LeetCode Practice  
+**(Date: 12-Jan-2026)**
+
+- Solved LeetCode problem:
+  - Minimum Time Visiting All Points
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉  [Day 23 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
