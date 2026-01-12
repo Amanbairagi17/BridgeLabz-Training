@@ -260,3 +260,14 @@ BridgeLabz-Training/
 👉  [Day 19 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
 
 ---
+
+### 🗓 Day 22 – LeetCode & Scenario-Based Practice  
+**(Date: 10-Jan-2026)**
+
+- Solved LeetCode problem:
+  - Majority Element
+ 
+- Committed and pushed all changes successfully.
+👉  [Day 22 - Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
