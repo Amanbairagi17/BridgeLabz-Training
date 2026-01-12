@@ -61,3 +61,21 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
+👉 [Day 19 – StringBuilder, StringBuffer, FileReader and searching](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/searchingalgorithm)
+
+
+---
+
+### 🗓 Day 22 – Scenario-Based Practice On DSA  
+**(Date: 10-Jan-2026)**
+
+- Practiced scenario-based problems using data structures:
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+- Applied OOPS concepts with real-world data structure usage.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Links:**  
+[Day 22 - Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com)
