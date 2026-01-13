@@ -100,3 +100,29 @@
 [Day 23 - Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com)
 
 ---
+
+### 🗓 Day 24 – Algorithm Analysis & DSA Scenarios  
+**(Date: 12-Jan-2026)**
+
+- Submitted **Algorithm Runtime Analysis & Big-O Notation**.
+- Studied **Linear Search vs Binary Search**.
+- Performed **sorting algorithm comparison**.
+- Analyzed performance through problem statements:
+  - String Concatenation Performance
+  - Large File Reading Efficiency
+  - Recursive vs Iterative Fibonacci
+  - Data Structure Comparison for Searching
+
+- Practiced DSA scenario-based problems:
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+[Day 24 - Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+[Algorithm Analysis](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/performance).
+
+---
