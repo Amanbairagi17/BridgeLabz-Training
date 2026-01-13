@@ -216,3 +216,22 @@
 👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 24 – OOPS Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+
+- Practiced real-world OOPS scenario-based problems.
+- Applied **inheritance, encapsulation, abstraction, and polymorphism**.
+
+- Scenario-based problems:
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+  - PayXpress – Utility Bill Payment System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
