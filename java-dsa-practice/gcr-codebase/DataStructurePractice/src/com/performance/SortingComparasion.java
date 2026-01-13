@@ -3,6 +3,7 @@ package com.performance;
 import java.util.Arrays;
 import java.util.Random;
 
+
 public class SortingComparasion {
     public static void main(String[] args) {
 
@@ -27,5 +28,9 @@ public class SortingComparasion {
         BenchmarkUtils.measure("Arrays.sort O(N log N)", () -> {
             Arrays.sort(fastData);
         });
+        
+//        Output
+//        Bubble Sort O(N^2) → 40.2516 ms
+//        Arrays.sort O(N log N) → 33.8114 ms
     }
 }
