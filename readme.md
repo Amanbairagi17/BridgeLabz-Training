@@ -102,7 +102,7 @@
 ---
 
 ### 🗓 Day 24 – Algorithm Analysis & DSA Scenarios  
-**(Date: 12-Jan-2026)**
+**(Date: 13-Jan-2026)**
 
 - Submitted **Algorithm Runtime Analysis & Big-O Notation**.
 - Studied **Linear Search vs Binary Search**.
@@ -122,7 +122,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-[Day 24 - Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+[Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 [Algorithm Analysis](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/performance).
 
 ---
