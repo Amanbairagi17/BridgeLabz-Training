@@ -382,11 +382,15 @@ BridgeLabz-Training/
   - ParcelTracker – Delivery Chain Management (Singly Linked List)
   - ExamProctor – Online Exam Review System (Stack + HashMap)
 
+- Solved LeetCode problem:
+  - Relative Ranks
+  - 
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
 👉[Scenario Based Problems-DSA](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 👉[Algorithm Analysis](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/performance).
 👉 [Scenario Based Problems-OOPs](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+👉[Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
 
 ---
