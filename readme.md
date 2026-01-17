@@ -146,3 +146,19 @@
 
 ---
 
+### 🗓 Day 26 – DSA Scenario-Based Sorting Practice  
+**(Date: 16-Jan-2026)**
+
+- Practiced scenario-based DSA problems focused on sorting techniques.
+
+- Scenario-based problems:
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+
+---
