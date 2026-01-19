@@ -406,10 +406,19 @@ BridgeLabz-Training/
   - ZipZipMart – Daily Sales Summary Report (Merge Sort)
   - EventManager – Ticket Price Optimizer (Quick Sort)
   - ExamCell – Student Rank Generator (Merge Sort)
+  - 
+- Implemented **Bird Sanctuary** application using Java.
+- Practiced core OOPS concepts:
+  - Classes and Objects
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+- Designed bird hierarchy and behavior management.
 
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
 👉[Scenario Based Problems-DSA](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+👉[Scenario Based Problems-OOPs](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
