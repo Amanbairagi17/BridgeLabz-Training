@@ -439,3 +439,21 @@ BridgeLabz-Training/
 👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 
 ---
+
+### 🗓 Day 27 – DSA Scenario-Based Sorting Practice  
+**(Date: 17-Jan-2026)**
+
+- Practiced scenario-based DSA problems using sorting algorithms.
+
+- Scenario-based problems:
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+
+---
