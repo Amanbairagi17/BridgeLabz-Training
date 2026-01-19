@@ -235,3 +235,20 @@
 👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 25 – Bird Sanctuary Case Study  
+**(Date: 15-Jan-2026)**
+
+- Implemented **Bird Sanctuary** application using Java.
+- Practiced core OOPS concepts:
+  - Classes and Objects
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+- Designed bird hierarchy and behavior management.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
