@@ -197,3 +197,21 @@
 👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 
 ---
+### 🗓 Day 29 – DSA Scenario-Based Sorting & Logical Problems  
+**(Date: 20-Jan-2026)**
+
+- Practiced DSA scenario-based problems using sorting algorithms.
+- Solved logical problem based on **Flip Key** concept.
+
+- Scenario-based problems:
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+👉 [Flip Keys](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com/extras).
+
+---
