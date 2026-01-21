@@ -504,3 +504,25 @@ BridgeLabz-Training/
 👉 [Generics](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generic).
 
 ---
+
+### 🗓 Day 30 –  Collections - (List, Set, Map and Queue) & Leetcode Problem Practice
+**(Date: 21-Jan-2026)**
+
+- Studied the Java Collections Framework and its core interfaces.
+- Learned List, Set, Map, and Queue along with their characteristics.
+- Understood differences between ArrayList, LinkedList, HashSet, HashMap, and PriorityQueue.
+- Practiced basic operations and committed all changes successfully.
+
+- Solved LeetCode problems:
+  - Shuffle the Array
+  - Set Mismatch
+  - Maximum Consecutive Ones
+  - Concatenation of Array
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+👉 [Collections](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections).
+
+---
