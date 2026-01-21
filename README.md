@@ -297,3 +297,19 @@ BridgeLabz-Training/
 👉  [Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
 
 ---
+
+### 🗓 Day 30 – LeetCode Practice  
+**(Date: 21-Jan-2026)**
+
+- Solved LeetCode problems:
+  - Shuffle the Array
+  - Set Mismatch
+  - Maximum Consecutive Ones
+  - Concatenation of Array
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉  [Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
