@@ -457,3 +457,20 @@ BridgeLabz-Training/
 👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 
 ---
+
+### 🗓 Day 28 – DSA Scenario-Based Sorting Practice  
+**(Date: 19-Jan-2026)**
+
+- Practiced DSA scenario-based problems focused on sorting algorithms.
+
+- Scenario-based problems:
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice-DSA](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+
+---
