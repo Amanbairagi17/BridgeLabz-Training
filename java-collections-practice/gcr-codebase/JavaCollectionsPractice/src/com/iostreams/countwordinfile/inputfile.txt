@@ -1,0 +1,5 @@
+Java is powerful.
+Java is fast.
+Java is secure.
+Java is everywhere.
+Programming in Java is fun.
