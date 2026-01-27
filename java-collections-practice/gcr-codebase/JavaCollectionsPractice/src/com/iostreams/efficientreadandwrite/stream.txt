@@ -1,0 +1,111 @@
+JAVA STREAMS
+====================
+
+In Java, a stream is a sequence of data used to perform input and output operations.
+Streams allow Java programs to read data from a source and write data to a destination.
+
+A stream represents a flow of data between a program and an external device such as
+a file, keyboard, network, or memory.
+
+Java streams are divided into two main categories:
+
+1. Byte Streams
+2. Character Streams
+
+
+BYTE STREAMS
+--------------------
+Byte streams process data in the form of bytes (8 bits).
+They are mainly used for binary data such as:
+
+- Images
+- Audio files
+- Video files
+- PDF documents
+
+Common byte stream classes include:
+- FileInputStream
+- FileOutputStream
+- BufferedInputStream
+- BufferedOutputStream
+
+Byte streams read and write one byte at a time.
+
+
+CHARACTER STREAMS
+--------------------
+Character streams work with characters instead of raw bytes.
+They are mainly used for text files.
+
+Character streams automatically handle Unicode encoding.
+
+Common character stream classes include:
+- FileReader
+- FileWriter
+- BufferedReader
+- BufferedWriter
+
+Character streams are more suitable for reading textual data.
+
+
+BUFFERED STREAMS
+--------------------
+Buffered streams improve performance by using an internal memory buffer.
+
+Instead of reading or writing data byte by byte,
+buffered streams read a block of data at once.
+
+This reduces the number of disk I/O operations.
+
+Examples:
+- BufferedInputStream
+- BufferedOutputStream
+- BufferedReader
+- BufferedWriter
+
+
+WHY BUFFERED STREAMS ARE FASTER
+--------------------------------
+Without buffering:
+Each read or write operation directly accesses the disk.
+
+With buffering:
+Data is first stored in memory and then transferred in chunks.
+
+This significantly improves performance, especially for large files.
+
+
+STREAM WORKING FLOW
+--------------------
+Source → Stream → Buffer → Program
+
+
+ADVANTAGES OF STREAMS
+---------------------
+- Platform independent input/output
+- Efficient data handling
+- Support for large files
+- Improved performance with buffering
+- Easy file manipulation
+
+
+IMPORTANT POINTS
+--------------------
+1 KB = 1024 bytes  
+4 KB = 4096 bytes  
+
+Buffered streams commonly use a buffer size of 4096 bytes.
+
+System.nanoTime() is used to measure execution time accurately.
+
+
+SUMMARY
+--------------------
+Java streams provide a powerful and flexible mechanism to handle input
+and output operations efficiently.
+
+Buffered streams should always be preferred while working with
+large files because they reduce disk access and increase speed.
+
+Understanding streams is essential for Java backend development
+and real-world enterprise applications.
