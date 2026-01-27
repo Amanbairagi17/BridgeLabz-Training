@@ -1,0 +1,6 @@
+INFO  Server started successfully
+INFO  Connection established
+ERROR Database connection failed
+WARN  Memory usage high
+Error Unable to load configuration
+INFO  Shutdown complete
