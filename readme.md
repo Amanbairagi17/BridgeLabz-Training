@@ -215,3 +215,19 @@
 👉 [Flip Keys](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com/extras).
 
 ---
+
+### 🗓 Day 30 – DSA Scenario-Based Sorting Practice  
+**(Date: 21-Jan-2026)**
+
+- Practiced DSA scenario-based problems focused on sorting algorithms.
+
+- Scenario-based problems:
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+
+---
