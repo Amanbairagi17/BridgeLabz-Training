@@ -31,3 +31,38 @@
 👉 [Collections](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections).
 
 ---
+
+### 🗓 Day 31 – Java Input Streams  
+**(Date: 22-Jan-2026)**
+
+- Studied **Java Input Streams**.
+- Learned about:
+  - InputStream
+  - FileInputStream
+  - BufferedInputStream
+- Practiced reading data from files and console.
+- Understood stream-based input handling and performance benefits.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [JAVA I/O Stream](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/iostreams).
+
+---
+
+### 🗓 Day 32 – Exception Handling in Java  
+**(Date: 23-Jan-2026)**
+
+- Studied **Exception Handling** in Java.
+- Learned usage of:
+  - `try`, `catch`, `finally`
+  - `throw` and `throws`
+- Implemented **custom exceptions**.
+- Understood **checked and unchecked exceptions**.
+- Practiced handling multiple and runtime exceptions.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Exception](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions).
+
+---
+
