@@ -1,4 +1,4 @@
-package com.reflections.dicontainer;
+package com.reflactions.dicontainer;
 
 public class UserRepository {
 	 public void save() {

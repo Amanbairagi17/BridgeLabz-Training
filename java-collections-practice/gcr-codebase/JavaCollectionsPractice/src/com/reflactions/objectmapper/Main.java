@@ -1,4 +1,4 @@
-package com.reflections.objectmapper;
+package com.reflactions.objectmapper;
 
 import java.util.HashMap;
 import java.util.Map;

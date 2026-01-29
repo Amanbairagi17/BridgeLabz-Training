@@ -1,4 +1,4 @@
-package com.reflections.jsondata;
+package com.reflactions.jsondata;
 
 import java.lang.reflect.Field;
 

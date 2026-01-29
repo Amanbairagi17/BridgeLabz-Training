@@ -1,4 +1,4 @@
-package com.reflections.dicontainer;
+package com.reflactions.dicontainer;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;
