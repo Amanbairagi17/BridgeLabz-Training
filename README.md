@@ -571,3 +571,19 @@ BridgeLabz-Training/
 👉 [Exception](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions).
 
 ---
+
+### 🗓 Day 33 – JUnit & Regular Expressions  
+**(Date: 24-Jan-2026)**
+
+- Studied **JUnit testing framework**.
+- Practiced writing unit test cases.
+- Learned JUnit annotations and test lifecycle.
+- Studied **Regular Expressions (Regex)**.
+- Practiced pattern matching and validation.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [JUnit and Regex](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src).
+
+---
+
