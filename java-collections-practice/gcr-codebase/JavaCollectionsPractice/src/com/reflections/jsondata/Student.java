@@ -1,4 +1,4 @@
-package com.annotations.jsondata;
+package com.reflections.jsondata;
 
 public class Student {
     private int id;

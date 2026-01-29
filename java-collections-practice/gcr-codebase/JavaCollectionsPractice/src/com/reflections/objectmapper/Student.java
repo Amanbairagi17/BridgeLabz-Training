@@ -1,4 +1,4 @@
-package com.annotations.objectmapper;
+package com.reflections.objectmapper;
 
 public class Student {
 

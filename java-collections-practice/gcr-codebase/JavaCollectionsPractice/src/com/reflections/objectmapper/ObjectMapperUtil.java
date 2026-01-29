@@ -1,4 +1,4 @@
-package com.annotations.objectmapper;
+package com.reflections.objectmapper;
 
 import java.lang.reflect.Field;
 import java.util.Map;
