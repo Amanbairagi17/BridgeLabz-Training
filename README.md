@@ -604,3 +604,18 @@ BridgeLabz-Training/
 👉 [Annotations](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations).
 
 ---
+
+### 🗓 Day 35 – Java Reflection  
+**(Date: 28-Jan-2026)**
+
+- Studied **Java Reflection API**.
+- Learned how to inspect classes, methods, fields, and constructors at runtime.
+- Practiced creating objects dynamically using reflection.
+- Implemented method invocation and field access at runtime.
+- Understood use cases of reflection in frameworks.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Reflaction](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflactions).
+
+---
