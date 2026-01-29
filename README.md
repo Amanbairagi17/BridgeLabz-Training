@@ -526,3 +526,31 @@ BridgeLabz-Training/
 👉 [Collections](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections).
 
 ---
+
+### 🗓 Day 31 – Java Input Streams & Tree Scenario-Based Practice  
+**(Date: 22-Jan-2026)**
+
+- Studied **Java Input Streams**.
+- Learned about:
+  - InputStream
+  - FileInputStream
+  - BufferedInputStream
+- Practiced reading data from files and console.
+- Understood stream-based input handling and performance benefits.
+
+- Practiced tree-based data structure concepts.
+- Implemented real-world scenarios using **Binary Search Tree (BST)**.
+
+- Tree scenario-based problems:
+  - University’s Digital Record System (Student Records using BST)
+  - E-Commerce Product Inventory (Product ID management using BST)
+  - Music App – Organize Songs by Track ID (BST traversal and search)
+
+- Applied operations such as **insertion, deletion, searching, and traversal**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+👉 [JAVA I/O Stream](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/iostreams).
+
+---
