@@ -550,7 +550,24 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
+👉 [Scenario Based Practice - DSA ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 👉 [JAVA I/O Stream](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/iostreams).
+
+---
+
+### 🗓 Day 32 – Exception Handling in Java  
+**(Date: 23-Jan-2026)**
+
+- Studied **Exception Handling** in Java.
+- Learned usage of:
+  - `try`, `catch`, `finally`
+  - `throw` and `throws`
+- Implemented **custom exceptions**.
+- Understood **checked and unchecked exceptions**.
+- Practiced handling multiple and runtime exceptions.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Exception](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions).
 
 ---
