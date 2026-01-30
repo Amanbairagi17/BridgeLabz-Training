@@ -1,5 +1,8 @@
 package com.regex.smartresumefilteringsystem;
 
-public class InvalidFormatException {
+public class InvalidFormatException extends Exception {
 
-}
+    public InvalidFormatException(String msg) {
+        super(msg);
+    }
+} 
