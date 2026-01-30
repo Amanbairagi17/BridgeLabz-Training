@@ -1,6 +1,4 @@
-ID,Name,Department,Salary
-101,Aman,IT,55000
-102,Rahul,HR,48000
-103,Priya,Finance,62000
-104,Neha,Marketing,50000
-105,Arjun,Development,70000
+Employee ID,Name,Department,Salary
+1,Emp1,Dept1,50000.0
+2,Emp2,Dept2,40000.0
+3,Emp3,Dept3,60000.0
