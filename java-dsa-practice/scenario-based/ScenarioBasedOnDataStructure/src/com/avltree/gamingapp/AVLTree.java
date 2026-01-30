@@ -138,7 +138,7 @@ public class AVLTree {
 
         if (balance < -1 && getBalance(root.right) > 0) {
             root.right = rightRotate(root.right);
-            return leftRotate(root);
+            return leftRotate(root); 
         }
 
         return root;

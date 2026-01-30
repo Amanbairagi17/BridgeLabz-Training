@@ -9,4 +9,4 @@ public class AVLNode {
         this.player = player;
         height = 1;
     }
-}
+}  

@@ -12,9 +12,9 @@ public class GamingLeaderboard {
         tree.insert(new Player("Pooja", 850));
 
         tree.displayTopPlayers();
-
+ 
         System.out.println("\nPlayer banned (score 700)");
-        tree.delete(700);
+        tree.delete(700); 
 
         tree.displayTopPlayers();
     }
