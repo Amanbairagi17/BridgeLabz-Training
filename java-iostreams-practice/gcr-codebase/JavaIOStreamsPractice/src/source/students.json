@@ -1,0 +1,7 @@
+[
+  {"id":"1","name":"Aman","age":"22","course":"Java","email":"aman@gmail.com"},
+  {"id":"2","name":"Rahul","age":"21","course":"Python","email":"rahul@gmail.com"},
+  {"id":"3","name":"Priya","age":"23","course":"Spring Boot","email":"priya@gmail.com"},
+  {"id":"4","name":"Neha","age":"20","course":"DSA","email":"neha@gmail.com"},
+  {"id":"5","name":"Rohit","age":"24","course":"Backend","email":"rohit@gmail.com"}
+]
