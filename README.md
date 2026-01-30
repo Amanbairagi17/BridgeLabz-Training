@@ -66,3 +66,51 @@
 
 ---
 
+### 🗓 Day 33 – JUnit & Regular Expressions  
+**(Date: 24-Jan-2026)**
+
+- Studied **JUnit testing framework**.
+- Practiced writing unit test cases.
+- Learned JUnit annotations and test lifecycle.
+- Studied **Regular Expressions (Regex)**.
+- Practiced pattern matching and validation.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [JUnit and Regex](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src).
+
+---
+
+
+### 🗓 Day 34 – Java Annotations  
+**(Date: 27-Jan-2026)**
+
+- Studied **Java Annotations** and their purpose.
+- Learned built-in annotations such as:
+  - `@Override`
+  - `@Deprecated`
+  - `@SuppressWarnings`
+- Implemented **custom annotations**.
+- Understood annotation retention policies and targets.
+- Practiced annotation usage with reflection.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Annotations](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations).
+
+---
+
+### 🗓 Day 35 – Java Reflection  
+**(Date: 28-Jan-2026)**
+
+- Studied **Java Reflection API**.
+- Learned how to inspect classes, methods, fields, and constructors at runtime.
+- Practiced creating objects dynamically using reflection.
+- Implemented method invocation and field access at runtime.
+- Understood use cases of reflection in frameworks.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Reflaction](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflactions).
+
+---
