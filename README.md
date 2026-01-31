@@ -670,3 +670,17 @@ BridgeLabz-Training/
 👉 [AVL Tree](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com/avltree).
 
 ---
+
+### 🗓 Day 38 – Regex, CSV & Pattern Matching Scenarios  
+**(Date: 31-Jan-2026)**
+
+- Practiced **regular expressions** for pattern matching and validation.
+- Worked with **CSV file processing** and data extraction.
+- Implemented pattern-based logic for real-world applications.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario-Based Problem (Collections)](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedPractice).
+
+---
