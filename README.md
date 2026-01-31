@@ -114,3 +114,24 @@
 👉 [Reflaction](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflactions).
 
 ---
+
+### 🗓 Day 38 – Regex, CSV & Pattern Matching Scenarios  
+**(Date: 31-Jan-2026)**
+
+- Practiced **regular expressions** for pattern matching and validation.
+- Worked with **CSV file processing** and data extraction.
+- Implemented pattern-based logic for real-world applications.
+
+- Scenario-based problems:
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - FeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario-Based Problem (Collections)](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedPractice).
+
+---
