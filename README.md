@@ -649,9 +649,24 @@ BridgeLabz-Training/
 - Performed CRUD operations on JSON data.
 - Learned and practiced **Jackson library**:
   - ObjectMapper
+
+- Studied **AVL Tree** and self-balancing concepts.
+- Implemented rotations:
+  - Left rotation
+  - Right rotation
+  - Left-Right rotation
+  - Right-Left rotation
+- Practiced insertion and balancing operations.
+
+- Tree-based scenario problems:
+  - Gaming App – Real-Time Leaderboard
+  - Online Ticket Booking by Time
+  - Hospital Queue Management
+
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
 👉 [JSON Data and JSON file](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/jsondata).
+👉 [AVL Tree](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com/avltree).
 
 ---
