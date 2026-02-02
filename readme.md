@@ -250,3 +250,25 @@
 👉 [Scenario Based Practice ](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com).
 
 ---
+### 🗓 Day 37 – AVL Tree & Tree-Based Scenarios  
+**(Date: 30-Jan-2026)**
+
+- Studied **AVL Tree** and self-balancing concepts.
+- Implemented rotations:
+  - Left rotation
+  - Right rotation
+  - Left-Right rotation
+  - Right-Left rotation
+- Practiced insertion and balancing operations.
+
+- Tree-based scenario problems:
+  - Gaming App – Real-Time Leaderboard
+  - Online Ticket Booking by Time
+  - Hospital Queue Management
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [AVL Tree](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedOnDataStructure/src/com/avltree).
+
+---
