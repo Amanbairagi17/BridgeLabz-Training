@@ -53,7 +53,7 @@ public class LexicalTwist {
 				HashSet<Character> consonentSet = new LinkedHashSet<>();
 				//System.out.println(sb2);
 				
-				for(int i=0 ; i<sb2.length() ; i++) {
+				for(int i=0 ; i<sb2.length() ; i++) { 
 					char ch = sb2.charAt(i);
 					//System.out.println(ch +" " + i);
 					if(isVowels(Character.toLowerCase(ch))) {
