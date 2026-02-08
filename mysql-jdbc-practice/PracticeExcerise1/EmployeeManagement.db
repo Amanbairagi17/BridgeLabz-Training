@@ -1,0 +1,31 @@
+
+-- Create database employee for employee management system
+create table employee(
+	emp_id int primary key,
+    name varchar(50),
+    salary decimal(10,2),
+    department varchar(50)
+);
+
+-- Add employee in database
+insert into employee(emp_id, name, salary, department)  values
+(1,"Aman", 30000, "HR"),
+(2,"Sam", 35000, "Developmetn"),
+(3,"Rohit ", 44000, "IT"),
+(4,"Kanha", 30000, "HR");
+
+-- Show all employees
+SELECT * FROM employee;
+
+-- Update employee salary of emp_id=1 to 55000
+UPDATE employee
+SET salary = 55000
+WHERE emp_id = 1;
+    
+-- Delete employee 
+DELETE FROM employee
+WHERE emp_id = 3;
+
+-- search employee by name 
+SELECT * FROM employee
+WHERE name LIKE '%Aman%';
