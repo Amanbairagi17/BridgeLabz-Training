@@ -87,3 +87,23 @@
 👉 [Multithreading](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/multithreading).
 
 ---
+
+### 🗓 Day 44 – MySQL Practice Exercises  
+**(Date: 07-Feb-2026)**
+
+- Practiced **MySQL fundamentals** with hands-on exercises.
+- Designed and queried relational tables.
+- Implemented SQL operations using **CRUD, joins, constraints, and transactions**.
+
+- Practice exercises:
+  - Employee Management System
+  - Banking Transaction System
+  - Book Inventory Management System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [MySQL Practice Excercise](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/PracticeExcerise1).
+
+---
+
