@@ -70,3 +70,20 @@
 👉 [Design Pattern](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/librarymanagement).
 
 ---
+
+### 🗓 Day 43 – Multithreading in Java  
+**(Date: 06-Feb-2026)**
+
+- Studied **Multithreading** concepts in Java.
+- Learned ways to create threads:
+  - Extending `Thread` class
+  - Implementing `Runnable` interface
+- Understood **thread lifecycle** and states.
+- Practiced thread synchronization and concurrency basics.
+- Learned use of `sleep()`, `join()`, and thread priorities.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Multithreading](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/multithreading).
+
+---
