@@ -1,0 +1,70 @@
+-- Library Management System (Advanced)
+
+-- create book table
+CREATE TABLE book (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(200),
+    author VARCHAR(100),
+    available BOOLEAN
+);
+
+-- create table student
+CREATE TABLE student (
+    student_id INT PRIMARY KEY,
+    name VARCHAR(100)
+);
+
+-- table for save record of book
+CREATE TABLE borrow_record (
+    record_id INT PRIMARY KEY AUTO_INCREMENT,
+    student_id INT,
+    book_id INT,
+    issue_date DATE,
+    return_date DATE,
+    FOREIGN KEY (student_id) REFERENCES student(student_id),
+    FOREIGN KEY (book_id) REFERENCES book(book_id)
+);
+
+-- added book to book table
+INSERT INTO book (book_id, title, author, available)
+VALUES
+(1, 'Java Basics', 'James Gosling', TRUE),
+(2, 'Effective Java', 'Joshua Bloch', TRUE),
+(3, 'Clean Code', 'Robert C. Martin', TRUE),
+(4, 'Head First Java', 'Kathy Sierra', TRUE),
+(5, 'Spring in Action', 'Craig Walls', TRUE);
+
+-- insert student
+INSERT INTO student (student_id, name)
+VALUES (101, 'Aman Bairagi');
+
+
+-- borrow book
+UPDATE book
+SET available = FALSE
+WHERE book_id = 1;
+
+INSERT INTO borrow_record (student_id, book_id, issue_date)
+VALUES (101, 1, CURRENT_DATE);
+
+-- return book
+UPDATE book
+SET available = TRUE
+WHERE book_id = 1;
+
+UPDATE borrow_record
+SET return_date = CURRENT_DATE
+WHERE book_id = 1 AND student_id = 101;
+
+-- fine calculations
+SELECT student_id,
+       book_id,
+       GREATEST(DATEDIFF(CURDATE(), issue_date) - 14, 0) * 5 AS fine_amount
+FROM borrow_record
+WHERE return_date IS NULL;
+
+
+-- find 
+SELECT * FROM book
+WHERE (title LIKE '%Java%' OR author LIKE '%James%')
+AND available = TRUE;
