@@ -684,3 +684,27 @@ BridgeLabz-Training/
 👉 [Scenario-Based Problem (Collections)](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedPractice).
 
 ---
+
+ ### 🗓 Day 39 – Data Processing Scenarios & Lambda Expressions  
+**(Date: 02-Feb-2026)**
+
+- Worked on advanced real-world data processing problems.
+- Applied **collections, file handling, regex, and pattern matching**.
+- Studied and practiced **Lambda Expressions** for functional-style programming.
+
+- Scenario-based problems:
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+
+- Implemented lambdas with functional interfaces to simplify logic.
+- Improved code readability and concise syntax.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Links:**  
+👉 [Scenario-Based Problem (Collections)](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedPractice).
+👉 [Lambda Expression](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lambdaexpression).
+
+---
