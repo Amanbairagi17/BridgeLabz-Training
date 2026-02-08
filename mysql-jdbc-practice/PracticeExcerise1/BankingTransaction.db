@@ -1,0 +1,60 @@
+use mysqlpractice1;
+
+-- banking system (transaction management)
+
+-- this table store account info
+CREATE TABLE account (
+    account_no INT PRIMARY KEY,
+    holder_name VARCHAR(100),
+    balance DECIMAL(12,2)
+);
+
+-- this table store transaction history
+CREATE TABLE transaction_history (
+    txn_id INT PRIMARY KEY AUTO_INCREMENT,
+    account_no INT,
+    txn_type VARCHAR(10),
+    amount DECIMAL(10,2),
+    txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (account_no) REFERENCES account(account_no)
+);
+
+-- add accounts 
+INSERT INTO account (account_no, holder_name, balance)
+VALUES
+(1002, 'Rahul Sharma', 30000.00),
+(1003, 'Neha Verma', 45000.00),
+ (1001, 'Aman Bairagi', 25000.00);
+ 
+-- show all accounts
+select * from account; 
+
+-- check balance 
+SELECT balance FROM account
+WHERE account_no = 1001;
+
+-- transactions 
+START TRANSACTION;
+UPDATE account
+SET balance = balance - 500
+WHERE account_no = 1001;
+
+UPDATE account
+SET balance = balance + 500
+WHERE account_no = 1002;
+
+INSERT INTO transaction_history (account_no, txn_type, amount)
+VALUES (1001, 'DEBIT', 500);
+
+INSERT INTO transaction_history (account_no, txn_type, amount)
+VALUES (1002, 'CREDIT', 500);
+
+COMMIT;
+
+-- see all transactions history
+SELECT * FROM transaction_history
+WHERE account_no = 1001
+ORDER BY txn_date DESC;
+
+SHOW TABLE STATUS WHERE Name IN ('account', 'transaction_history');
+
