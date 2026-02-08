@@ -746,3 +746,25 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Stream API](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com).
 
+---
+
+---
+
+### 🗓 Day 42 – Design Patterns  
+**(Date: 05-Feb-2026)**
+
+- Studied **Java Design Patterns**.
+- Learned purpose and benefits of design patterns.
+- Implemented common patterns:
+  - Singleton
+  - Factory
+  - Strategy
+  - Observer
+- Understood real-world use cases of each pattern.
+- Improved code structure and maintainability.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Design Pattern](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/librarymanagement).
+
+---
