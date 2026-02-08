@@ -728,3 +728,21 @@ BridgeLabz-Training/
 👉 [Functional Interface](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface).
 
 ---
+
+
+### 🗓 Day 41 – Stream API, Collectors & Workshop  
+**(Date: 04-Feb-2026)**
+
+- Studied **Java Stream API**.
+- Practiced stream operations:
+  - filter
+  - map
+  - reduce
+- Learned **Collectors** for grouping, mapping, and aggregation.
+- Implemented stream-based solutions with collections.
+- Attended hands-on **workshop** on functional programming concepts.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Stream API](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com).
+
