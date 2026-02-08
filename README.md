@@ -1,5 +1,5 @@
 ### 🗓 Day 39 – Lambda Expressions in Java  
-**(Date: 01-Feb-2026)**
+**(Date: 02-Feb-2026)**
 
 - Studied **Lambda Expressions** in Java.
 - Learned functional programming concepts.
