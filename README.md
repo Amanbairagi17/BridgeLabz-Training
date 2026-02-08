@@ -135,3 +135,23 @@
 👉 [Scenario-Based Problem (Collections)](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedPractice).
 
 ---
+
+### 🗓 Day 39 – Advanced Data Processing Scenarios  
+**(Date: 01-Feb-2026)**
+
+- Worked on real-world data processing and validation problems.
+- Applied concepts of **collections, file handling, regex, and data parsing**.
+
+- Scenario-based problems:
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario-Based Problem (Collections)](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedPractice).
+
+--
