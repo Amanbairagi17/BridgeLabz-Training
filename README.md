@@ -708,3 +708,23 @@ BridgeLabz-Training/
 👉 [Lambda Expression](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lambdaexpression).
 
 ---
+
+
+### 🗓 Day 40 – Functional Interfaces in Java  
+**(Date: 03-Feb-2026)**
+
+- Studied **Functional Interfaces** in Java.
+- Learned built-in functional interfaces:
+  - Predicate
+  - Function
+  - Consumer
+  - Supplier
+- Practiced custom functional interfaces.
+- Used functional interfaces with **lambda expressions**.
+- Understood use cases in Java Streams and APIs.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Functional Interface](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface).
+
+---
