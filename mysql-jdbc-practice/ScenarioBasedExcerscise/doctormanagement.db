@@ -1,0 +1,65 @@
+USE mysqlpractice1;
+
+-- create specialties table
+CREATE TABLE specialties (
+    specialty_id INT AUTO_INCREMENT PRIMARY KEY,
+    specialty_name VARCHAR(50)
+);
+
+INSERT INTO specialties (specialty_name)
+VALUES ('Cardiology'), ('Neurology'), ('Orthopedics');
+
+-- create doctors table (WITH appointment_date from start)
+CREATE TABLE doctors (
+    doctor_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    contact VARCHAR(15),
+    consultation_fee INT,
+    specialty_id INT,
+    appointment_date DATE,
+    is_active BOOLEAN DEFAULT TRUE,
+
+    FOREIGN KEY (specialty_id)
+    REFERENCES specialties(specialty_id)
+);
+
+-- insert doctors
+INSERT INTO doctors (name, contact, consultation_fee, specialty_id)
+VALUES 
+('Dr. Sharma', '9876543210', 500, 1),
+('Doctors', '949493333', 1200, 2);
+
+-- assign/update specialty
+START TRANSACTION;
+
+UPDATE doctors
+SET specialty_id = 2
+WHERE doctor_id = 1;
+
+COMMIT;
+
+-- add appointment date
+UPDATE doctors
+SET appointment_date = '2026-02-25'
+WHERE doctor_id = 2;
+
+-- view doctors by specialty
+SELECT 
+    d.name,
+    d.contact,
+    d.consultation_fee
+FROM doctors d
+JOIN specialties s
+ON d.specialty_id = s.specialty_id
+WHERE s.specialty_name = 'Neurology'
+AND d.is_active = TRUE;
+
+-- show tables
+SELECT * FROM doctors;
+SELECT * FROM specialties;
+
+-- deactivate doctor (NO subquery → NO error)
+UPDATE doctors
+SET is_active = FALSE
+WHERE doctor_id = 1
+AND (appointment_date IS NULL OR appointment_date <= CURDATE());
