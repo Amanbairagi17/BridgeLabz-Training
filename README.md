@@ -15,3 +15,26 @@
 👉 [MySql Practice](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/PracticeExcercise).
 
 ---
+
+### 🗓 Day 45 – MySQL Scenario-Based Practice  
+**(Date: 08-Feb-2026)**
+
+- Practiced **scenario-based database design** using MySQL.
+- Implemented relational modeling, constraints, and queries.
+
+- Scenario modules:
+  - Patient Management
+  - Doctor Management
+  - Appointment Scheduling
+  - Visit Management & Medical Records
+  - Billing & Payments
+  - System Administration
+
+- Used **CRUD operations, joins, foreign keys, and transactions**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice My SQL](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/ScenarioBasedExcerscise).
+
+---
+
