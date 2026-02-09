@@ -1,0 +1,70 @@
+-- crud operation 
+
+-- create 
+CREATE TABLE specialties (
+    specialty_id INT AUTO_INCREMENT PRIMARY KEY,
+    specialty_name VARCHAR(50)
+);
+
+-- read or show data
+select * from specialties;
+
+-- update
+update specialties
+set specialties = 'Dramatology'
+where specialty_id=1;
+
+-- delete data 
+delete from specialties where specialty_id=2;
+
+-- databases backup (need java + jdbc) here we use simple query
+select * from patients;
+select * from doctors;
+select * from visits;
+select * from appointments;
+select * from bills;
+select * from audit_log;
+
+-- view system audit logs
+
+-- create audit log
+create table audit_log (
+    audit_id int auto_increment primary key,
+    user_name varchar(50),
+    table_name varchar(50),
+    operation varchar(20),
+    action_time timestamp default current_timestamp
+);
+
+-- insert data into table
+insert into audit_log (user_name, table_name, operation)
+values
+('admin', 'doctors', 'insert'),
+('admin', 'bills', 'update'),
+('receptionist', 'appointments', 'insert');
+
+-- view audit logs filter
+-- by name
+select *
+from audit_log
+where user_name = 'admin';
+
+-- by table 
+select *
+from audit_log
+where table_name = 'bills';
+
+-- by data range
+select *
+from audit_log
+where action_time between '2024-01-01' and '2024-12-31';
+
+-- combined
+select *
+from audit_log
+where user_name = 'admin'
+and table_name = 'bills'
+and operation = 'update';
+
+
+
