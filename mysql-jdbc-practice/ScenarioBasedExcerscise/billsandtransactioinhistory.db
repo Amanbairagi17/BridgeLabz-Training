@@ -1,0 +1,89 @@
+use mysqlpractice1;
+
+-- create bills table
+create table bills (
+    bill_id int auto_increment primary key,
+    visit_id int,
+    patient_id int,
+    doctor_name varchar(100),
+    consultation_fee int,
+    additional_charges int,
+    total_amount int,
+    bill_date date,
+    payment_status varchar(20) default 'unpaid',
+
+    foreign key (visit_id) references visits(visit_id),
+    foreign key (patient_id) references patients(patient_id)
+);
+
+-- insert data in table
+insert into bills
+(visit_id, patient_id, doctor_name, consultation_fee, additional_charges, total_amount, bill_date, payment_status)
+values
+(1, 1, 'Dr. Aman', 500, 200, 700, '2024-01-10', 'paid'),
+(2, 2, 'Dr. Sharma', 600, 100, 700, '2024-02-15', 'unpaid');
+
+-- show bills 
+select * from bills;
+
+
+-- patients data
+insert into patients (name, dob, phone, email, address, blood_group)
+values
+('Aman Bairagi', '2001-05-12', '9876543210', 'aman123@gmail.com', 'Indore', 'B+'),
+('Rahul Verma', '1999-08-20', '9222456789', 'rahul@gmail.com', 'Bhopal', 'A+');
+
+-- show tables 
+select * from patients;
+
+-- create payment table
+create table payment_transactions (
+    payment_id int auto_increment primary key,
+    bill_id int,
+    payment_date date,
+    payment_mode varchar(20),
+
+    foreign key (bill_id) references bills(bill_id)
+);
+
+-- record of payment with transaction 
+start transaction;
+
+update bills
+set payment_status = 'paid'
+where bill_id = 1;
+
+insert into payment_transactions
+(bill_id, payment_date, payment_mode)
+values
+(1, curdate(), 'cash');
+
+commit;
+
+-- view bills 
+select
+    p.name as patient_name,
+    count(b.bill_id) as total_bills,
+    sum(b.total_amount) as total_due
+from bills b
+join patients p on b.patient_id = p.patient_id
+where b.payment_status = 'unpaid'
+group by p.patient_id;
+
+-- generate revenue report
+select
+    bill_date,
+    sum(total_amount) as total_revenue
+from bills
+where payment_status = 'paid'
+and bill_date between '2024-01-01' and '2024-12-31'
+group by bill_date;
+
+-- add data into payments
+insert into payment_transactions
+(bill_id, payment_date, payment_mode)
+values
+(1, '2024-01-10', 'cash');
+
+-- show data from payment
+select * from payment_transactions;
