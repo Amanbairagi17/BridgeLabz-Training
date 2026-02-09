@@ -1,0 +1,81 @@
+use mysqlpractice1;
+
+-- create opatient table
+CREATE TABLE patients (
+    patient_id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100),
+    dob DATE,
+    phone VARCHAR(15) UNIQUE,
+    email VARCHAR(100) UNIQUE,
+    address VARCHAR(255),
+    blood_group VARCHAR(5)
+);
+
+-- insert values into the patient table
+
+INSERT INTO patients (name, dob, phone, email, address, blood_group)
+VALUES ('Aman Bairagi', '2001-05-12', '9876543210',
+        'aman@gmail.com', 'Indore', 'B+'),
+        ('Patinet', '2001-05-14', '9476543210',
+        'patient@gmail.com', 'Bhopal', 'A-');
+        
+-- update patient record
+UPDATE patients
+SET address = 'Bhopal', phone = '9123456789'
+WHERE patient_id = 1;
+
+-- search patieny bu id, name, and phone number
+-- by name
+select * from patients 
+where name like "%Aman%";
+        
+-- by id 
+select * from patients 
+where patient_id = 2;
+
+-- by phone number
+select * from patients 
+where phone like "9%";
+
+-- visit table for string visit data 
+CREATE TABLE visits (
+    visit_id INT AUTO_INCREMENT PRIMARY KEY,
+    patient_id INT,
+    doctor_name VARCHAR(100),
+    diagnosis VARCHAR(100),
+    visit_date DATE,
+
+    FOREIGN KEY (patient_id)
+    REFERENCES patients(patient_id)
+);
+
+-- Insert data for visit
+INSERT INTO visits (patient_id, doctor_name, diagnosis, visit_date)
+VALUES
+(1, 'Dr. Sharma', 'Fever', '2024-01-10'),
+(1, 'Dr. Mehta', 'Cold', '2024-02-05'),
+(2, 'Dr. Gupta', 'Headache', '2024-01-15');
+
+
+-- show patient table
+select * from patients;
+
+-- shwo visitor table
+select * from visits;
+
+--
+
+-- View Patient Visit History
+select 
+	p.name,
+    v.visit_id,
+    v.doctor_name,
+    v.diagnosis
+From visits as v
+Join patients as p
+On p.patient_id = v.patient_id
+where p.patient_id = 1
+order by v.visit_date asc;
+    
+
+
