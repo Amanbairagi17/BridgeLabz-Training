@@ -722,10 +722,19 @@ BridgeLabz-Training/
 - Practiced custom functional interfaces.
 - Used functional interfaces with **lambda expressions**.
 - Understood use cases in Java Streams and APIs.
+  
+Applied concepts of **data processing, validation, and automation**.
+
+- Scenario-based problems:
+  - HealthCheckPro – API Metadata Validator
+  - MarkMate – Student Marksheet Generator
+  - EventTracker – Auto Audit System
+    
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
 👉 [Functional Interface](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface).
+👉 [Scenario Based IOStreams](http://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-practice/ScenarioBasedPracticeIOStream/src/com).
 
 ---
 
