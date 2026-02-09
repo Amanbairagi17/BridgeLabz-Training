@@ -33,3 +33,21 @@
 👉 [JSON Data and JSON file](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/jsondata).
 
 ---
+
+### 🗓 Day 40 – API & System Automation Scenarios  
+**(Date: 03-Feb-2026)**
+
+- Practiced scenario-based system design and validation.
+- Applied concepts of **data processing, validation, and automation**.
+
+- Scenario-based problems:
+  - HealthCheckPro – API Metadata Validator
+  - MarkMate – Student Marksheet Generator
+  - EventTracker – Auto Audit System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based IOStreams](http://github.com/Amanbairagi17/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-practice/ScenarioBasedPracticeIOStream/src/com).
+
+---
