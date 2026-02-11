@@ -852,3 +852,21 @@ Applied concepts of **data processing, validation, and automation**.
 
 🔗 **Code Link:**  
 👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
+
+---
+
+### 🗓 Day 47 – LeetCode Practice  
+**(Date: 11-Feb-2026)**
+
+- Solved LeetCode problems:
+  - 3 Sum
+  - Find All Numbers Disappeared in an Array
+  - How Many Numbers Are Smaller Than the Current Number
+
+- Practiced array manipulation and problem-solving techniques.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Leetcode Problems](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+---
