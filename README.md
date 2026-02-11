@@ -835,3 +835,20 @@ Applied concepts of **data processing, validation, and automation**.
 👉 [Scenario Based Practice My SQL](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/ScenarioBasedExcerscise).
 
 ---
+
+### 🗓 Day 46 – Stream API Scenario-Based Practice  
+**(Date: 10-Feb-2026)**
+
+- Practiced **scenario-based problems using Java Stream API**.
+- Applied stream operations:
+  - filter
+  - map
+  - reduce
+  - collect
+- Used **Collectors** for grouping, sorting, and aggregation.
+- Solved real-world data processing scenarios with streams.
+- Improved code readability and functional-style implementation.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
