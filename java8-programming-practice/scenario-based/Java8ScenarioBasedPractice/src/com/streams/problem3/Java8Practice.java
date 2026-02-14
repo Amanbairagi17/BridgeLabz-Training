@@ -1,14 +1,14 @@
 package com.streams.problem3;
 
-import java.security.KeyStore.SecretKeyEntry;
+import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.stream.Collectors;
+import com.streams.problem1.Employee;
 
 public class Java8Practice {
 	public static void main(String[] args) {
@@ -177,7 +177,96 @@ public class Java8Practice {
 	    		.map(Map.Entry::getKey)
 	    		.toList();
 	    System.out.println(repeatedOnlyList);
+
+	    System.out.println("23. Find longest string");
+	    List<String> wordList3 = List.of("java", "microservice", "api");
+//	    String maxLengthWord = wordList3.stream().max(Comparator.comparingInt(String::length)).orElse(null);
+//	    String maxLengthWord = wordList3.stream().max((w1, w2) -> w1.length() - w2.length()).orElse(null);
+	    String maxLengthWord = wordList3.stream().sorted(Comparator.comparingInt(String::length).reversed()).findFirst().orElse(null);
+	    System.out.println(maxLengthWord);
 	    
+	    System.out.println("24. Find top 3 highest numbers");
+	    List<Integer> list9 = List.of(10,90,30,70,50);
+	    List<Integer> topThreeHighestIntegers = list9.stream().sorted(Comparator.reverseOrder()).limit(3).collect(Collectors.toList());
+	    System.out.println(topThreeHighestIntegers);
+	    
+	    System.out.println("25. Flatten list of lists");
+
+	    List<List<Integer>> input3 = List.of(
+	            List.of(1, 2),
+	            List.of(3, 4),
+	            List.of(5)
+	    );
+
+	    List<Integer> flattened =
+	            input3.stream()
+	                 .flatMap(List::stream)
+	                 .toList();
+
+	    System.out.println(flattened);
+	    
+	    System.out.println("27. Sort map by value");
+
+	    Map<String, Integer> inputMap = Map.of(
+	            "A", 3,
+	            "B", 1,
+	            "C", 2
+	    );
+	    
+	    Map<String, Integer> sortedByValue = inputMap.entrySet()
+	    		.stream()
+	    		.sorted(Map.Entry.comparingByValue()) // ascending
+	    		.collect(Collectors.toMap(Map.Entry::getKey,
+	    				Map.Entry::getValue,
+	    				(a,b) -> a,
+	    				LinkedHashMap::new
+	    				));
+	    System.out.println(sortedByValue);
+	    
+	    System.out.println("28. Find employee with highest salary (using stream)");
+	    Employee[] employees = {
+			    new Employee(1, "Aman", 23, "Male", "Sales",
+			            LocalDate.of(2001, 5, 15), 50000),
+
+			    new Employee(2, "Riya", 25, "Female", "HR",
+			            LocalDate.of(1999, 8, 10), 45000),
+
+			    new Employee(3, "Rahul", 28, "Male", "Finance",
+			            LocalDate.of(1996, 3, 20), 60000),
+
+			    new Employee(4, "Neha", 26, "Female", "Sales",
+			            LocalDate.of(1998, 11, 5), 48000),
+
+			    new Employee(5, "Karan", 30, "Male", "Operations",
+			            LocalDate.of(1994, 1, 12), 65000),
+
+			    new Employee(6, "Priya", 24, "Female", "IT",
+			            LocalDate.of(2000, 7, 18), 42000),
+			    new Employee(7, "Ravi", 21, "Male", "Product Development",
+			            LocalDate.of(2002, 9, 8), 82000)
+			};
+	    
+	    System.out.println(Arrays.stream(employees).max(Comparator.comparingDouble(Employee::getSalary)));
+//	        double maxEmployeeSalary =  Arrays.stream(employees)
+//	        		.max(Comparator.comparingDouble(Employee::getSalary))
+//	        		.map(Employee::getSalary)
+//	        		.orElse(0.0);
+//	        System.out.println(maxEmployeeSalary);
+	    
+	    System.out.println("29. Find common elements between two lists");
+
+	    List<Integer> inputList1 = List.of(1, 2, 3, 4);
+	    List<Integer> inputList2 = List.of(3, 4, 5, 6);
+	    
+	    List<Integer> commonList = inputList1.stream().filter(inputList2::contains).toList();
+	    System.out.println(commonList);
+	    
+	    System.out.println("30. Find kth smallest element");
+	    List<Integer> inputList = List.of(9,1,5,3,7);
+	    int k = 2;
+	    
+	    System.out.println(inputList.stream().sorted().skip(k-1).findFirst().orElse(0));
+
 	   	/*
 	   	 *
 	   	 *
