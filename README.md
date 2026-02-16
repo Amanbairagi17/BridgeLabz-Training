@@ -56,3 +56,25 @@
 👉 [JDBC Practice](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/jdbc/src/main/java/jdbc/com).
 
 ---
+
+### 🗓 Day 51 – JDBC Scenario-Based Application  
+**(Date: 16-Feb-2026)**
+
+- Practiced **scenario-based application development** using JDBC.
+- Applied database connectivity, queries, and transactions.
+
+- Scenario modules implemented:
+  - Patient Management
+  - Doctor Management
+  - Appointment Scheduling
+  - Visit Management & Medical Records
+  - Billing & Payments
+  - System Administration
+
+- Used **CRUD operations, prepared statements, and transaction handling**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [JDBC Practice](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/jdbc/src/main/java/jdbc/com).
+
+----
