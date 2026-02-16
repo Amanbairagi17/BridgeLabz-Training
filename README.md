@@ -893,3 +893,26 @@ Applied concepts of **data processing, validation, and automation**.
 👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
 
 ---
+
+### 🗓 Day 49 – Advanced Stream API Practice  
+**(Date: 13-Feb-2026)**
+
+- Practiced **advanced Java Stream API** problems.
+- Implemented analytical queries on collections.
+
+- Stream API focus areas:
+  - Gender-based analysis
+  - Department-specific queries
+  - Advanced-level stream operations
+  - Bonus challenge problems
+
+- Solved Stream-based questions such as:
+  - Maximum and second maximum value
+  - Occurrence of words
+  - Conditional filtering and aggregation
+
+- Strengthened problem-solving using functional programming.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
