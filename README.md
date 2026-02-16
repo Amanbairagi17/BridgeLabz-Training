@@ -916,3 +916,24 @@ Applied concepts of **data processing, validation, and automation**.
 
 🔗 **Code Link:**  
 👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
+
+---
+
+### 🗓 Day 50 – JDBC CRUD & Transaction Management  
+**(Date: 14-Feb-2026)**
+
+- Studied **JDBC architecture** and database connectivity.
+- Established database connection using:
+  - DriverManager
+  - Connection
+- Implemented **CRUD operations** using JDBC.
+- Practiced **transaction management**:
+  - commit
+  - rollback
+- Handled exceptions and ensured data consistency.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [JDBC Practice](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/jdbc/src/main/java/jdbc/com).
+
+---
