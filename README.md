@@ -125,3 +125,26 @@
 👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
 
 ---
+
+### 🗓 Day 48 – Stream API Scenario-Based Practice  
+**(Date: 12-Feb-2026)**
+
+- Practiced **real-time scenario-based problems** using Java Stream API.
+- Worked with a **Student dataset** containing:
+  - Name, ID, First Name, Age, Gender, City, Rank, Contacts
+
+- Implemented Stream API operations:
+  - Basic filtering and mapping
+  - Sorting and limiting
+  - Grouping and aggregation
+  - Min/Max and ranking problems
+  - FlatMap with collections
+  - Conditional and matching operations
+
+- Improved data processing using functional-style programming.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Java 8 Scenario Based](https://github.com/Amanbairagi17/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioBasedPractice).
+
+---
