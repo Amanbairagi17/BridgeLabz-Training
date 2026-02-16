@@ -92,4 +92,7 @@ CREATE TABLE audit_log (
 INSERT INTO specialties (specialty_name)
 VALUES ('Cardiology'), ('Neurology'), ('Orthopedics');
 
+INSERT INTO doctors (name, contact, consultation_fee, specialty_id, is_active)
+VALUES ('Dr. Test', '9999999999', 500, 1, TRUE);
+
 select * from patients;
