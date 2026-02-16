@@ -2,6 +2,7 @@ package com.streams.problem2;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -355,7 +356,7 @@ public class DriverClass {
 		map2.entrySet().stream().sorted( Map.Entry.comparingByValue()).forEach(System.out::println);
 		map2.entrySet().stream().sorted( Map.Entry.comparingByKey()).forEach(System.out::println);
 		
-		System.out.println("Find SEcond highest word from sentence");
+		System.out.println("Find Second highest word from sentence");
 		String stringsString = "java is a good programming language";
 		int secondHigestStirng = Arrays.stream(stringsString.split("\\s+"))
 				.map(word -> word.length())
@@ -371,6 +372,12 @@ public class DriverClass {
 				.findFirst()
 				.orElse(null);
 		System.out.println(secondHighestLength);
+		
+		HashMap<String, Integer> mp = new HashMap<>();
+		Arrays.stream(students)
+				.forEach(s -> mp.put(s.getName(), s.getRank()));
+		System.out.println(mp);
+		
 		
 		
 		/**
